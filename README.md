@@ -1,10 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontColor=fff" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 # 🚀 Awesome Smart Contract Project
 
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.0-blue.svg)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-
+<a href="https://twitter.com/intent/tweet?text=🚀%20Check%20out%20this%20incredible%20animated%20counter!">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1500&color=1DA1F2&center=true&vCenter=true&width=300&lines=🐦+develop+the+Blocks" alt="Tweet" />
+</a>
 ## 📖 Project Description
 
 Welcome to this exciting smart contract project! This is a beginner-friendly Ethereum smart contract built with Solidity that demonstrates core Web3 concepts in a simple and understandable way. Whether you're new to blockchain development or an experienced developer, this project serves as a great starting point for understanding decentralized applications.
