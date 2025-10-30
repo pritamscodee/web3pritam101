@@ -52,6 +52,7 @@ Each voter can vote only **once**, and every vote is recorded **on-chain**, maki
 * Results can be **viewed directly** from the blockchain.
 
 ---
+<img width="1128" height="609" alt="image" src="https://github.com/user-attachments/assets/ac12c8ae-9133-459c-aeb3-7d58068b291b" />
 
 ## 🌟 **Features**
 
