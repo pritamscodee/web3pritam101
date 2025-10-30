@@ -60,7 +60,7 @@ Each voter can vote only **once**, and every vote is recorded **on-chain**, maki
 * **Framework:** Remix / Hardhat compatible
 * **Network:** Celo Sepolia Testnet
 * **Deployed Address:** `[Contract Address Here]`
-* 👉 [**View on Blockscout**](https://sepolia.celoscan.io)
+
 
 ---
 
