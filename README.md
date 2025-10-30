@@ -52,7 +52,8 @@ Each voter can vote only **once**, and every vote is recorded **on-chain**, maki
 * Results can be **viewed directly** from the blockchain.
 
 ---
-<img width="1128" height="609" alt="image" src="https://github.com/user-attachments/assets/ac12c8ae-9133-459c-aeb3-7d58068b291b" />
+
+
 
 ## 🌟 **Features**
 
@@ -98,7 +99,7 @@ Start small — **experiment**, **break things**, and **learn** how decentralize
 ---
 
 ## 🧠 **Made with ❤️ by [pritamsCodee / 0x6eD14027321853A50ae8B64026181d548eBfE5b7]**
-
+<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/6b6fbf80-617e-472d-bb50-9a1a89c104f7" />
 ---
 
 Would you like me to **generate an image** (for the “Voting DApp Preview” section) — e.g., a mockup showing a simple blockchain-style voting UI (wallet connect + candidate list + vote button)?
