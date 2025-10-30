@@ -23,10 +23,12 @@ To help you visualize or present it better, here’s how you can turn that descr
 
 # 🗳️ **Voting DApp on Celo**
 
-![Voting DApp Preview](https://via.placeholder.com/900x400?text=Voting+DApp+on+Celo+Preview)
+![eatme](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 *A simple decentralized voting application built with Solidity and deployed on the **Celo Blockchain (Sepolia Testnet)**.*
-##Contract Address :https://celo-sepolia.blockscout.com/address/0x6eD14027321853A50ae8B64026181d548eBfE5b7?tab=index
+
+
+#Contract Address :https://celo-sepolia.blockscout.com/address/0x6eD14027321853A50ae8B64026181d548eBfE5b7?tab=index
 This project demonstrates how blockchain ensures **fair**, **transparent**, and **tamper-proof voting** using smart contracts.
 ![WhatsApp Image 2025-10-29 at 14 00 04_592d6b54](https://github.com/user-attachments/assets/ce35ba6e-6ed0-4f3b-b47c-64bbcce1a27a)
 
