@@ -59,7 +59,7 @@ Each voter can vote only **once**, and every vote is recorded **on-chain**, maki
 * **Language:** Solidity `^0.8.20`
 * **Framework:** Remix / Hardhat compatible
 * **Network:** Celo Sepolia Testnet
-* **Deployed Address:** `[Contract Address Here]`
+* **Deployed Address:** `0x6eD14027321853A50ae8B64026181d548eBfE5b7`
 
 
 ---
