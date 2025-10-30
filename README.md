@@ -102,6 +102,3 @@ Start small — **experiment**, **break things**, and **learn** how decentralize
 <img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/6b6fbf80-617e-472d-bb50-9a1a89c104f7" />
 ---
 
-Would you like me to **generate an image** (for the “Voting DApp Preview” section) — e.g., a mockup showing a simple blockchain-style voting UI (wallet connect + candidate list + vote button)?
-I can create that visual for your README.
-
