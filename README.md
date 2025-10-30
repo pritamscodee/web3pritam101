@@ -87,7 +87,7 @@ Start small — **experiment**, **break things**, and **learn** how decentralize
 
 ---
 
-## 🧠 **Made with ❤️ by [Your Name / XXX]**
+## 🧠 **Made with ❤️ by [pritamsCodee / 0x6eD14027321853A50ae8B64026181d548eBfE5b7]**
 
 ---
 
